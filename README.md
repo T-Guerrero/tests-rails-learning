@@ -1,24 +1,9 @@
-# README
+# Testing - Rails - Learning
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project that covers the basic of unit, integration and API tests in Ruby on Rails.
 
-Things you may want to cover:
+It was used:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rspec
+* Factory Bot
+* FFaker
